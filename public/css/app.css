@@ -1,0 +1,68 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgba(236,239,244,255); /* Color de fondo */
+    color: rgba(77,76,98,255); /* Color de texto */
+    margin: 0; /* Eliminar margen predeterminado */
+    padding: 0; /* Eliminar relleno predeterminado */
+    padding-bottom: 100px;
+}
+
+.header1 {
+    background-color: rgba(60,141,188,255); /* Color de fondo */
+    color: white; /* Color de texto */
+    padding: 1em; /* Espaciado interno */
+    position: fixed; /* Fija la barra en la parte superior */
+    top: 5px; /* Distancia desde la parte superior */
+    width: 100%; /* Ancho completo */
+    z-index: 1000; /* Capa más alta */
+}
+
+.header2 {
+    background-color: rgba(60,141,188,255); /* Color de fondo */
+    color: white; /* Color de texto */
+    padding: 1em; /* Espaciado interno */
+    position: fixed; /* Fija la barra en la parte superior */
+    top: 65px; /* Distancia desde la parte superior */
+    width: 100%; /* Ancho completo */
+    z-index: 1000; /* Capa más alta */
+}
+
+nav ul {
+    list-style: none; /* Sin viñetas */
+    padding: 0; /* Sin relleno */
+    margin: 0; /* Sin margen */
+    display: flex; /* Mostrar en línea */
+}
+
+nav ul li {
+    margin-right: 1em; /* Margen derecho */
+}
+
+nav ul li a {
+    color: white; /* Color de enlace */
+    text-decoration: none; /* Sin subrayado */
+}
+
+nav ul li a:hover {
+    text-decoration: underline; /* Subrayado al pasar el mouse */
+}
+
+main {
+    padding: 2em; /* Espaciado interno */
+    margin-top: 100px; /* Margen superior igual a la suma de las alturas de header1, header2 y header3 */
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(127, 169, 194); /* Color de fondo del footer */
+    color: white;
+    text-align: center;
+    padding: 10px 0; /* Espaciado interno del footer */
+}
+

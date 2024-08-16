@@ -19,7 +19,7 @@
                 
                 <div class="menu-item" style="text-align: center;">
                     <img src="/images/Designer (3).png" alt="SANE" style="width:100px; height:125px">
-                    <a href="upload">GENERAR ARCHIVO SANE</a>
+                    <a href="/upload">GENERAR ARCHIVO SANE</a>
                     </div>
 
                     <div class="menu-item" style="text-align: center;">

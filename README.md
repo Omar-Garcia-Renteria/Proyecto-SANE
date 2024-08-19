@@ -19,12 +19,12 @@
                 
                 <div class="menu-item" style="text-align: center;">
                     <img src="/images/Designer (3).png" alt="SANE" style="width:100px; height:125px">
-                    <a href="https://github.com/Omar-Garcia-Renteria/Proyecto-SANE/SANE2.6/recursos/vistas/upload">GENERAR ARCHIVO SANE</a>
+                    <a href="https://github.com/Omar-Garcia-Renteria/Proyecto-SANE/resources/views/contacto/index.blade.php">GENERAR ARCHIVO SANE</a>
                     </div>
 
                     <div class="menu-item" style="text-align: center;">
                     <img src="/images/Designer (2).jpeg" alt="Incentivo" style="width:100px; height:125px">
-                    <a herf="https://github.com/Omar-Garcia-Renteria/Proyecto-SANE/SANE2.0/recursos/vistas/excel/upload">INCENTIVO 1</a> <br>
+                    <a herf="https://github.com/Omar-Garcia-Renteria/Proyecto-SANE/SANE2.0/resources/views/contacto/index.blade.php">INCENTIVO 1</a> <br>
                 </div> <br> <br>
 
 
